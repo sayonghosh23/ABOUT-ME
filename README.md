@@ -32,4 +32,4 @@ I'm a BSc Cybersecurity student at Heritage Academy Kolkata with a strong intere
 
 -Email: sayonghosh2005@gmail.com
 
--LinkedIn: https://www.linkedin.com/in/sayon-ghosh-5060b7263/
+-LinkedIn: https://www.linkedin.com/in/sayonghosh23
