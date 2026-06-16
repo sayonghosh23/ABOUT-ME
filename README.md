@@ -26,7 +26,7 @@ I'm a BSc Cybersecurity student at Heritage Academy Kolkata with a strong intere
 
 🌱 Current Projects
 
--Project 1: A cybersecurity tool that scans and analyzes network traffic for potential vulnerabilities, built using Python and Wireshark.
+-Project 1: A Mini-SIEM dashboard
 
 🔗 Let's Connect
 
